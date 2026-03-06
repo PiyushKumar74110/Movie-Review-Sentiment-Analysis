@@ -7,6 +7,8 @@ It predicts whether a movie review is **Positive or Negative** and also shows th
 
 # 🚀 Live Demo
 
+https://moviereviewsimplernn.streamlit.app/
+
 User enters a movie review → Model predicts:
 
 * Sentiment: Positive / Negative
